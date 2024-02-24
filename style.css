@@ -18,7 +18,8 @@ input{
 .submit{
     margin: 15px auto 0 auto;
     width: 22%;
-    background-color: bisque;
+    background-color: darkslateblue;
+    color: white;
     border-radius: 5px;
 }
 form{
@@ -27,4 +28,9 @@ form{
     margin: auto;
     border: 2px solid black;
     padding: 15px;
+}
+.g-recaptcha{
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
 }
